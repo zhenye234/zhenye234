@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Ye Zhen, a PhD student at HKUST.
+- 👀 I’m interested in audio generation, speech synthesis and speech LLM.

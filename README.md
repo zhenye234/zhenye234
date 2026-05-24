@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Ye Zhen, a PhD student at HKUST.
-- 👀 I’m interested in Multi-modal generation and speech synthesis.
+- 👀 I’m interested in Multimodal generation and speech synthesis.
